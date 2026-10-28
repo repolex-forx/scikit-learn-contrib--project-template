@@ -1,0 +1,11 @@
+{
+  "org": "scikit-learn-contrib",
+  "repo": "project-template",
+  "versions": [
+    {
+      "commit": "fc9f82eb6b998bde744ef736d4e101a9610ad5fb",
+      "tag": "",
+      "parsed_at": "2026-10-28T17:03:54.276906+00:00"
+    }
+  ]
+}
